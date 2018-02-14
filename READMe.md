@@ -1,4 +1,4 @@
-# ChatServer
+# Key Frames Extraction
 This project implements implements python script to read a video and extract key frames based on sum of absolute differences in LUV colorspace.
 
 ## Getting Started
